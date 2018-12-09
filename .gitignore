@@ -3,3 +3,8 @@
 ################################################################################
 
 /WebApiDemo/bin/Debug/netcoreapp2.1
+/WebApiDemo/obj
+/.vs
+/WebApiDemo/wwwroot/css/site.min.css
+/WebApiDemo/wwwroot/js/site.min.js
+/WebApiDemo/bin/Debug/netcoreapp2.2

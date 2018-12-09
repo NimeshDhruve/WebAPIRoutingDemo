@@ -1,0 +1,11 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <div>
+        <label>API Url</label>
+        <input type="text" class="form-control" value="@Url.RouteUrl("ControllerOnlyRouteName", new { controller= "MyApi"})" />
+    </div>
+</div>
