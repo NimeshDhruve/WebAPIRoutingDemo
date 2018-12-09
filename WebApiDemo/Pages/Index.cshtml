@@ -7,5 +7,10 @@
     <div>
         <label>API Url</label>
         <input type="text" class="form-control" value="@Url.RouteUrl("ControllerOnlyRouteName", new { controller= "MyApi"})" />
+        <br />
+        <p>
+            By uncommenting following line in Startup.cs file above text box will have the right URL
+        </p>
+        <pre>setupAction.EnableEndpointRouting = false;</pre>
     </div>
 </div>
