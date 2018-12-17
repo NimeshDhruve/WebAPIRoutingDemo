@@ -12,7 +12,7 @@ The code for generating URL uses Url.RouteUrl:
 Example: 
 Url.RouteUrl("ControllerOnlyRouteName", new { controller= "MyApi"})
 ```
-
+## Example
 ![Output](https://github.com/nimeshdhruve/WebAPIRoutingDemo/blob/master/Example.jpg)
 
 
