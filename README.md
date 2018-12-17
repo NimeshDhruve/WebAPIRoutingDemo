@@ -1,7 +1,5 @@
 # WebAPIRoutingDemo
-Generate Web API url using Url.RouteUrl
-
-After upgrading to Asp.Net 2.2, Url.RouteURL seems to be broken.
+After upgrading to Asp.Net Core 2.2 (from Asp.Net Core 2.1), Url.RouteURL seems to be broken.
 
 This repo has code to demonstrate the issue. 
 
