@@ -13,7 +13,7 @@ Example:
 Url.RouteUrl("ControllerOnlyRouteName", new { controller= "MyApi"})
 ```
 ## Example
-![Output](WebAPIRoutingDemo/blob/master/Example.jpg)
+![Output](Example.jpg)
 
 
 Referred in:
