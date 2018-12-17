@@ -10,3 +10,7 @@ The code for generating URL uses Url.RouteUrl:
 Example: 
 Url.RouteUrl("ControllerOnlyRouteName", new { controller= "MyApi"})
 ```
+
+Referred in:
+ - https://github.com/aspnet/AspNetCore/issues/4556
+ - https://github.com/aspnet/Docs/issues/9886
